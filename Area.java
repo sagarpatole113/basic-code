@@ -8,6 +8,7 @@ public class Area {
     void show(){
         System.out.println("To calculate Area of circle given Radius is :"+ radius);
         System.out.println("After caluculation Area of circle is = "+area); 
+        System.out.println("Lets go");
     }
 
    public static void main(String args[]) {
